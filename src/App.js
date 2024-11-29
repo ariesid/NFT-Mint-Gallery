@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/nft-mint-gallery" element={<Home />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/create-nft" element={<CreateNFT />} />
         <Route path="/mint-nft" element={<MintNFT />} />

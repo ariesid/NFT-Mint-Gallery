@@ -20,12 +20,12 @@ const Navbar = () => {
 
   return (
     <nav className={`container ${sticky ? "dark-nav" : ""}`}>
-      <Link to="/">
+      <Link to="/nft-mint-gallery">
         <img src={logo} alt="" className="logo" />
       </Link>
       <ul className={mobileMenu ? "" : "hide-mobile-menu"}>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/nft-mint-gallery">Home</Link>
         </li>
         <li>
           <Link to="/gallery">Gallery</Link>
