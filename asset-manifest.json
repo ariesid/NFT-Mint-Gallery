@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/nft-mint-gallery/static/css/main.ca648f37.css",
-    "main.js": "/nft-mint-gallery/static/js/main.6d0551f8.js",
+    "main.js": "/nft-mint-gallery/static/js/main.f4209434.js",
     "static/js/453.3dc24cf3.chunk.js": "/nft-mint-gallery/static/js/453.3dc24cf3.chunk.js",
     "static/media/albert-einstein-warrior_cards.png": "/nft-mint-gallery/static/media/albert-einstein-warrior_cards.1e4a692d16c57a8135c2.png",
     "static/media/hero_section_01.jpg": "/nft-mint-gallery/static/media/hero_section_01.576ee869112587bc9ec4.jpg",
     "static/media/nft_contract.png": "/nft-mint-gallery/static/media/nft_contract.af96b6ccbd61a792c14f.png",
     "index.html": "/nft-mint-gallery/index.html",
     "main.ca648f37.css.map": "/nft-mint-gallery/static/css/main.ca648f37.css.map",
-    "main.6d0551f8.js.map": "/nft-mint-gallery/static/js/main.6d0551f8.js.map",
+    "main.f4209434.js.map": "/nft-mint-gallery/static/js/main.f4209434.js.map",
     "453.3dc24cf3.chunk.js.map": "/nft-mint-gallery/static/js/453.3dc24cf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca648f37.css",
-    "static/js/main.6d0551f8.js"
+    "static/js/main.f4209434.js"
   ]
 }
